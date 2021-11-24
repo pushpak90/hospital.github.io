@@ -1,0 +1,42 @@
+body {
+    background-image: url('./pexels-oles-kanebckuu-127873.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.container {
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    /* border: 2px solid red; */
+    font-family: arial;
+    font-size: 16px;
+    background-color: rgb(123, 226, 163);
+    border-radius: 20px;
+    opacity: 60%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.container div {
+    text-align: center;
+}
+
+input {
+    width: 250px;
+    padding: 5px;
+}
+
+button {
+    width: 70px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+    background-color: rgb(233, 0, 58);
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
